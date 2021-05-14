@@ -11,4 +11,4 @@ Polyphonic Step Sequencer (Max for Live MIDI Device) inspired by Roland JX-3P
 - Note Counter shows Quarter Notes
 - stop recording before playback the Clip
 
-for Live 11 and above use 3P-SEQ_11.amxd 
+update: improvement for Live 11 
