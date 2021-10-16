@@ -1,5 +1,5 @@
 # 3P-SEQ
-Polyphonic Step Sequencer (Max for Live MIDI Device) inspired by Roland JX-3P 
+Polyphonic Step Sequencer (Max4Live MIDI Device) inspired by Roland JX-3P 
 
 - first create a MIDI Clip (the Clip must be highlighted)
 - press the Device Panel to open the UI window
